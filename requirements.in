@@ -1,0 +1,7 @@
+cached-property
+larq
+matplotlib
+polyaxon-client
+seaborn
+tensorflow_addons
+tensorflow_datasets
