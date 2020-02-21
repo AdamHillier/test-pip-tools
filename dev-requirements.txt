@@ -27,7 +27,7 @@ pycodestyle==2.5.0        # via flake8
 pyflakes==2.1.1           # via flake8
 pyparsing==2.4.6          # via packaging
 pytest==5.3.5
-pytype==2020.1.24
+pytype==2020.2.20
 pyyaml==5.3               # via pytype
 regex==2020.1.8           # via black
 six==1.14.0               # via importlab, packaging, pytype, snapshottest
