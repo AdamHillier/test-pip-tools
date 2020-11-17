@@ -31,7 +31,7 @@ pytype==2020.11.12        # via -r dev-requirements.in
 pyyaml==5.3               # via -c requirements.txt, pytype
 regex==2020.1.8           # via black
 six==1.14.0               # via -c requirements.txt, importlab, packaging, pytype, snapshottest
-snapshottest==0.5.1       # via -r dev-requirements.in
+snapshottest==0.6.0       # via -r dev-requirements.in
 termcolor==1.1.0          # via -c requirements.txt, snapshottest
 toml==0.10.0              # via black
 typed-ast==1.4.1          # via black, pytype
